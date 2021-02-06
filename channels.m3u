@@ -15,7 +15,7 @@ rtp://87.141.215.251@232.0.20.49:10000
 rtp://87.141.215.251@232.0.20.85:10000
 #EXTINF:-1 tvg-id="tagesschau24.de",tagesschau24 HD
 rtp://87.141.215.251@232.0.20.205:10000
-#EXTINF:-1 tvg-id="tagesschau24.de",zdf_neo HD
+#EXTINF:-1 tvg-id="ZDFneo.de",zdf_neo HD
 rtp://87.141.215.251@232.0.20.236:10000
 #EXTINF:-1 tvg-id="BR.de",BR Süd HD
 rtp://87.141.215.251@232.0.20.26:10000
