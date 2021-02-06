@@ -1,121 +1,121 @@
 #EXTM3U
-#EXTINF:0,(1) Das Erste HD
+#EXTINF:-1 tvg-id="ARD.de",Das Erste HD
 rtp://87.141.215.251@232.0.20.35:10000
-#EXTINF:0,(2) ZDF HD
+#EXTINF:-1 tvg-id="ZDF.de",ZDF HD
 rtp://87.141.215.251@232.0.20.234:10000
-#EXTINF:0,(3) ARTE HD
+#EXTINF:-1 tvg-id="ARTE.de",ARTE HD
 rtp://87.141.215.251@232.0.20.10:10000
-#EXTINF:0,(4) 3sat HD
+#EXTINF:-1 tvg-id="3sat.de",3sat HD
 rtp://87.141.215.251@232.0.20.2:10000
-#EXTINF:0,(5) PHOENIX HD
+#EXTINF:-1 tvg-id="phoenix.de",PHOENIX HD
 rtp://87.141.215.251@232.0.20.116:10000
-#EXTINF:0,(6) ONE HD
+#EXTINF:-1 tvg-id="One.de",ONE HD
 rtp://87.141.215.251@232.0.20.49:10000
-#EXTINF:0,(7) KiKA HD
+#EXTINF:-1 tvg-id="Kika.de",KiKA HD
 rtp://87.141.215.251@232.0.20.85:10000
-#EXTINF:0,(8) tagesschau24 HD
+#EXTINF:-1 tvg-id="tagesschau24.de",tagesschau24 HD
 rtp://87.141.215.251@232.0.20.205:10000
-#EXTINF:0,(9) zdf_neo HD
+#EXTINF:-1 tvg-id="tagesschau24.de",zdf_neo HD
 rtp://87.141.215.251@232.0.20.236:10000
-#EXTINF:0,(10) BR Süd HD
+#EXTINF:-1 tvg-id="BR.de",BR Süd HD
 rtp://87.141.215.251@232.0.20.26:10000
-#EXTINF:0,(11) MDR Sachsen HD
+#EXTINF:-1 tvg-id="MDRSachsen.de",MDR Sachsen HD
 rtp://87.141.215.251@232.0.20.93:10000
-#EXTINF:0,(12) NDR HD
+#EXTINF:-1 tvg-id="ndr.de",NDR HD
 rtp://87.141.215.251@232.0.20.104:10000
-#EXTINF:0,(13) hr HD
+#EXTINF:-1 tvg-id="HR.de",hr HD
 rtp://87.141.215.251@232.0.20.71:10000
-#EXTINF:0,(14) ZDFinfo HD
+#EXTINF:-1 tvg-id="ZDFinfo.de",ZDFinfo HD
 rtp://87.141.215.251@232.0.20.237:10000
-#EXTINF:0,(15) rbb Berlin HD
+#EXTINF:-1 tvg-id="rbbBerlin.de",rbb Berlin HD
 rtp://87.141.215.251@232.0.20.129:10000
-#EXTINF:0,(16) SWR RP HD
+#EXTINF:-1 tvg-id="SWR.de",SWR RP HD
 rtp://87.141.215.251@232.0.20.203:10000
-#EXTINF:0,(17) SWR BW HD
+#EXTINF:-1 tvg-id="",SWR BW HD
 rtp://87.141.215.251@232.0.20.202:10000
-#EXTINF:0,(18) SR HD
+#EXTINF:-1 tvg-id="",SR HD
 rtp://87.141.215.251@232.0.20.200:10000
-#EXTINF:0,(30) ProSieben SD
+#EXTINF:-1 tvg-id="",ProSieben SD
 rtp://87.141.215.251@232.0.10.120:10000
-#EXTINF:0,(31) RTL SD
+#EXTINF:-1 tvg-id="",RTL SD
 rtp://87.141.215.251@232.0.10.135:10000
-#EXTINF:0,(32) Sat.1 SD
+#EXTINF:-1 tvg-id="",Sat.1 SD
 rtp://87.141.215.251@232.0.10.146:10000
-#EXTINF:0,(33) kabel eins SD
+#EXTINF:-1 tvg-id="",kabel eins SD
 rtp://87.141.215.251@232.0.10.82:10000
-#EXTINF:0,(34) VOX SD
+#EXTINF:-1 tvg-id="",VOX SD
 rtp://87.141.215.251@232.0.10.221:10000
-#EXTINF:0,(35) RTL II SD
+#EXTINF:-1 tvg-id="",RTL II SD
 rtp://87.141.215.251@232.0.10.140:10000
-#EXTINF:0,(36) n-tv SD
+#EXTINF:-1 tvg-id="",n-tv SD
 rtp://87.141.215.251@232.0.10.111:10000
-#EXTINF:0,(37) Super RTL SD
+#EXTINF:-1 tvg-id="",Super RTL SD
 rtp://87.141.215.251@232.0.10.201:10000
-#EXTINF:0,(38) ProSieben MAXX SD
+#EXTINF:-1 tvg-id="",ProSieben MAXX SD
 rtp://87.141.215.251@232.0.10.122:10000
-#EXTINF:0,(39) RTLNITRO SD
+#EXTINF:-1 tvg-id="",RTLNITRO SD
 rtp://87.141.215.251@232.0.10.143:10000
-#EXTINF:0,(40) Sat.1 Gold SD
+#EXTINF:-1 tvg-id="",Sat.1 Gold SD
 rtp://87.141.215.251@232.0.10.149:10000
-#EXTINF:0,(41) kabel eins Doku SD
+#EXTINF:-1 tvg-id="",kabel eins Doku SD
 rtp://87.141.215.251@232.0.11.2:10000
-#EXTINF:0,(42) sixx SD
+#EXTINF:-1 tvg-id="",sixx SD
 rtp://87.141.215.251@232.0.10.157:10000
-#EXTINF:0,(43) RTLplus SD
+#EXTINF:-1 tvg-id="",RTLplus SD
 rtp://87.141.215.251@232.0.10.240:10000
-#EXTINF:0,(44) 3sat SD
+#EXTINF:-1 tvg-id="",3sat SD
 rtp://87.141.215.251@232.0.10.2:10000
-#EXTINF:0,(50) Das Erste SD
+#EXTINF:-1 tvg-id="",Das Erste SD
 rtp://87.141.215.251@232.0.10.35:10000
-#EXTINF:0,(51) ZDF SD
+#EXTINF:-1 tvg-id="",ZDF SD
 rtp://87.141.215.251@232.0.10.234:10000
-#EXTINF:0,(52) ZDFinfo SD
+#EXTINF:-1 tvg-id="",ZDFinfo SD
 rtp://87.141.215.251@232.0.10.237:10000
-#EXTINF:0,(53) ONE SD
+#EXTINF:-1 tvg-id="",ONE SD
 rtp://87.141.215.251@232.0.10.49:10000
-#EXTINF:0,(45) PHOENIX SD
+#EXTINF:-1 tvg-id="",PHOENIX SD
 rtp://87.141.215.251@232.0.10.116:10000
-#EXTINF:0,(55) KiKA SD
+#EXTINF:-1 tvg-id="",KiKA SD
 rtp://87.141.215.251@232.0.10.85:10000
-#EXTINF:0,(56) zdf_neo SD
+#EXTINF:-1 tvg-id="",zdf_neo SD
 rtp://87.141.215.251@232.0.10.236:10000
-#EXTINF:0,(57) ARTE SD
+#EXTINF:-1 tvg-id="",ARTE SD
 rtp://87.141.215.251@232.0.10.10:10000
-#EXTINF:0,(58) NDR SD
+#EXTINF:-1 tvg-id="",NDR SD
 rtp://87.141.215.251@232.0.10.104:10000
-#EXTINF:0,(59) WDR SD
+#EXTINF:-1 tvg-id="",WDR SD
 rtp://87.141.215.251@232.0.10.222:10000
-#EXTINF:0,(60) rbb Berlin SD
+#EXTINF:-1 tvg-id="",rbb Berlin SD
 rtp://87.141.215.251@232.0.10.129:10000
-#EXTINF:0,(61) SR SD
+#EXTINF:-1 tvg-id="",SR SD
 rtp://87.141.215.251@232.0.10.200:10000
-#EXTINF:0,(62) BR Süd SD
+#EXTINF:-1 tvg-id="",BR Süd SD
 rtp://87.141.215.251@232.0.10.26:10000
-#EXTINF:0,(63) MDR Sachsen SD
+#EXTINF:-1 tvg-id="",MDR Sachsen SD
 rtp://87.141.215.251@232.0.10.93:10000
-#EXTINF:0,(64) hr SD
+#EXTINF:-1 tvg-id="",hr SD
 rtp://87.141.215.251@232.0.10.71:10000
-#EXTINF:0,(65) SWR BW SD
+#EXTINF:-1 tvg-id="",SWR BW SD
 rtp://87.141.215.251@232.0.10.202:10000
-#EXTINF:0,(66) SWR RP SD
+#EXTINF:-1 tvg-id="",SWR RP SD
 rtp://87.141.215.251@232.0.10.203:10000
-#EXTINF:0,(67) WDR HD
+#EXTINF:-1 tvg-id="",WDR HD
 rtp://87.141.215.251@232.0.20.222:10000
-#EXTINF:0,(68) ARD-alpha SD
+#EXTINF:-1 tvg-id="",ARD-alpha SD
 rtp://87.141.215.251@232.0.10.9:10000
-#EXTINF:0,(69) Radio Bremen TV SD
+#EXTINF:-1 tvg-id="",Radio Bremen TV SD
 rtp://87.141.215.251@232.0.10.125:10000
-#EXTINF:0,(70) BR Nord SD
+#EXTINF:-1 tvg-id="",BR Nord SD
 rtp://87.141.215.251@232.0.10.25:10000
-#EXTINF:0,(71) rbb Brandenburg SD
+#EXTINF:-1 tvg-id="",rbb Brandenburg SD
 rtp://87.141.215.251@232.0.10.130:10000
-#EXTINF:0,(72) NDR Hamburg SD
+#EXTINF:-1 tvg-id="",NDR Hamburg SD
 rtp://87.141.215.251@232.0.10.105:10000
-#EXTINF:0,(73) NDR Schleswig-Holstein SD
+#EXTINF:-1 tvg-id="",NDR Schleswig-Holstein SD
 rtp://87.141.215.251@232.0.10.107:10000
-#EXTINF:0,(74) NDR Mecklenburg-Vorpommern SD
+#EXTINF:-1 tvg-id="",NDR Mecklenburg-Vorpommern SD
 rtp://87.141.215.251@232.0.10.106:10000
-#EXTINF:0,(75) MDR Sachsen-Anhalt SD
+#EXTINF:-1 tvg-id="",MDR Sachsen-Anhalt SD
 rtp://87.141.215.251@232.0.10.94:10000
-#EXTINF:0,(76) MDR Thüringen SD
+#EXTINF:-1 tvg-id="",MDR Thüringen SD
 rtp://87.141.215.251@232.0.10.95:10000
