@@ -1,6 +1,8 @@
 #EXTM3U
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de",Das Erste HD
-rtp://87.141.215.251@232.0.20.35:10000
+udp://87.141.215.251@232.0.20.35:10000
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de",ZDF HD
 rtp://87.141.215.251@232.0.20.234:10000
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de",ARTE HD
