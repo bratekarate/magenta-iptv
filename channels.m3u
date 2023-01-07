@@ -3,7 +3,7 @@
 rtp://87.141.215.251@232.0.20.35:10000
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de",ZDF HD
 rtp://87.141.215.251@232.0.20.234:10000
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTEDeutsch.de",ARTE HD
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTEGermany.de",ARTE HD
 rtp://87.141.215.251@232.0.20.10:10000
 #EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de",3sat HD
 rtp://87.141.215.251@232.0.20.2:10000
@@ -81,7 +81,7 @@ rtp://87.141.215.251@232.0.10.116:10000
 rtp://87.141.215.251@232.0.10.85:10000
 #EXTINF:-1 tvg-name="zdf_neo SD" tvg-id="ZDFneo.de",zdf_neo SD
 rtp://87.141.215.251@232.0.10.236:10000
-#EXTINF:-1 tvg-name="ARTE SD" tvg-id="ARTEDeutsch.de",ARTE SD
+#EXTINF:-1 tvg-name="ARTE SD" tvg-id="ARTEGermany.de",ARTE SD
 rtp://87.141.215.251@232.0.10.10:10000
 #EXTINF:-1 tvg-name="NDR SD" tvg-id="NDRFernsehenNiedersachsen.de",NDR SD
 rtp://87.141.215.251@232.0.10.104:10000
