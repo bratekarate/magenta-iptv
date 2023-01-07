@@ -37,27 +37,27 @@ rtp://87.141.215.251@232.0.20.203:10000
 rtp://87.141.215.251@232.0.20.202:10000
 #EXTINF:-1 tvg-name="SR HD" tvg-id="SRFernsehen.de",SR HD
 rtp://87.141.215.251@232.0.20.200:10000
-#EXTINF:-1 tvg-name="ProSieben SD" tvg-id="ProSiebenGermany.de",ProSieben SD
+#EXTINF:-1 tvg-name="ProSieben SD" tvg-id="ProSieben.de",ProSieben SD
 rtp://87.141.215.251@232.0.10.120:10000
 #EXTINF:-1 tvg-name="RTL SD" tvg-id="RTLGermany.de",RTL SD
 rtp://87.141.215.251@232.0.10.135:10000
-#EXTINF:-1 tvg-name="Sat.1 SD" tvg-id="Sat1Germany.de",Sat.1 SD
+#EXTINF:-1 tvg-name="Sat.1 SD" tvg-id="Sat1.de",Sat.1 SD
 rtp://87.141.215.251@232.0.10.146:10000
 #EXTINF:-1 tvg-name="kabel eins SD" tvg-id="KabelEins.de",kabel eins SD
 rtp://87.141.215.251@232.0.10.82:10000
 #EXTINF:-1 tvg-name="VOX SD" tvg-id="VoxGermany.de",VOX SD
 rtp://87.141.215.251@232.0.10.221:10000
-#EXTINF:-1 tvg-name="RTL II SD" tvg-id="RTLZweiGermany.de",RTL II SD
+#EXTINF:-1 tvg-name="RTL II SD" tvg-id="RTLZwei.de",RTL II SD
 rtp://87.141.215.251@232.0.10.140:10000
 #EXTINF:-1 tvg-name="n-tv SD" tvg-id="ntv.de",n-tv SD
 rtp://87.141.215.251@232.0.10.111:10000
-#EXTINF:-1 tvg-name="Super RTL SD" tvg-id="SuperRTLGermany.de",Super RTL SD
+#EXTINF:-1 tvg-name="Super RTL SD" tvg-id="SuperRTL.de",Super RTL SD
 rtp://87.141.215.251@232.0.10.201:10000
 #EXTINF:-1 tvg-name="ProSieben MAXX SD" tvg-id="ProSiebenMaxxGermany.de",ProSieben MAXX SD
 rtp://87.141.215.251@232.0.10.122:10000
-#EXTINF:-1 tvg-name="RTLNITRO SD" tvg-id="NitroGermany.de",RTLNITRO SD
+#EXTINF:-1 tvg-name="Nitro SD" tvg-id="Nitro.de",Nitro SD
 rtp://87.141.215.251@232.0.10.143:10000
-#EXTINF:-1 tvg-name="Sat.1 Gold SD" tvg-id="Sat1GoldGermany.de",Sat.1 Gold SD
+#EXTINF:-1 tvg-name="Sat.1 Gold SD" tvg-id="SAT1GOLD.de",Sat.1 Gold SD
 rtp://87.141.215.251@232.0.10.149:10000
 #EXTINF:-1 tvg-name="kabel eins Doku SD" tvg-id="kabeleinsDoku.de",kabel eins Doku SD
 rtp://87.141.215.251@232.0.11.2:10000
@@ -103,19 +103,19 @@ rtp://87.141.215.251@232.0.10.202:10000
 rtp://87.141.215.251@232.0.10.203:10000
 #EXTINF:-1 tvg-name="ARD-alpha SD" tvg-id="ARD-alpha.de",ARD-alpha SD
 rtp://87.141.215.251@232.0.10.9:10000
-#EXTINF:-1 tvg-name="Radio Bremen TV SD" tvg-id="RadioBremen.de",Radio Bremen TV SD
+#EXTINF:-1 tvg-name="Radio Bremen TV SD" tvg-id="RadioBremenFernsehen.de",Radio Bremen TV SD
 rtp://87.141.215.251@232.0.10.125:10000
-#EXTINF:-1 tvg-name="BR Nord SD" tvg-id="BRFernsehen.de",BR Nord SD
+#EXTINF:-1 tvg-name="BR Nord SD" tvg-id="BRFernsehenNord.de",BR Nord SD
 rtp://87.141.215.251@232.0.10.25:10000
 #EXTINF:-1 tvg-name="rbb Brandenburg SD" tvg-id="rbbBrandenburg.de",rbb Brandenburg SD
 rtp://87.141.215.251@232.0.10.130:10000
-#EXTINF:-1 tvg-name="NDR Hamburg SD" tvg-id="ndr.de",NDR Hamburg SD
+#EXTINF:-1 tvg-name="NDR Hamburg SD" tvg-id="NDRFernsehenHamburg.de",NDR Hamburg SD
 rtp://87.141.215.251@232.0.10.105:10000
-#EXTINF:-1 tvg-name="NDR Schleswig-Holstein SD" tvg-id="ndr.de",NDR Schleswig-Holstein SD
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein SD" tvg-id="NDRFernsehenSchleswigHolstein.de",NDR Schleswig-Holstein SD
 rtp://87.141.215.251@232.0.10.107:10000
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern SD" tvg-id="ndr.de",NDR Mecklenburg-Vorpommern SD
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern SD" tvg-id="NDRFernsehenMecklenburgVorpommern.de",NDR Mecklenburg-Vorpommern SD
 rtp://87.141.215.251@232.0.10.106:10000
-#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt SD" tvg-id="MDRS-Anhalt.de",MDR Sachsen-Anhalt SD
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt SD" tvg-id="MDRFernsehenSachsenAnhalt.de",MDR Sachsen-Anhalt SD
 rtp://87.141.215.251@232.0.10.94:10000
-#EXTINF:-1 tvg-name="MDR Thüringen SD" tvg-id="MDRThuringen.de",MDR Thüringen SD
+#EXTINF:-1 tvg-name="MDR Thüringen SD" tvg-id="MDRFernsehenThuringen.de",MDR Thüringen SD
 rtp://87.141.215.251@232.0.10.95:10000
